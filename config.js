@@ -39,6 +39,5 @@ module.exports = {
     'bcn_sendRawTx',
     'bcn_transaction',
     'ipfs_cid',
-	'contract_getStake'
   ],
 };
